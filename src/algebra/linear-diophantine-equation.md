@@ -220,3 +220,4 @@ If $a < b$, we need to select smallest possible value of $k$. If $a > b$, we nee
 * [Codeforces - Ebony and Ivory](http://codeforces.com/contest/633/problem/A)
 * [Codechef - Get AC in one go](https://www.codechef.com/problems/COPR16G)
 * [LightOj - Solutions to an equation](http://www.lightoj.com/volume_showproblem.php?problem=1306)
+* [AtCoder - Ai + Bj + Ck = X (1 <= i, j, k <= N)](https://atcoder.jp/contests/abc315/tasks/abc315_g)
